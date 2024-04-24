@@ -145,14 +145,14 @@ transition: .2s;}
                 border: 2px solid white;
                 box-shadow: 0 0 50px white;
          }
-         .button{
+         #button{
             margin-top: 40px;
           
           
             display: flex;
             justify-content: center;
          }
-         .button button{
+         #button button{
             width: 150px;
             height: 40px;
             background-color: black;
@@ -164,7 +164,7 @@ transition: .2s;}
             font-size: 15px;
             box-shadow: 0 0 20px rgb(0, 0, 0);
          }
-         .button button:hover
+         #button button:hover
          {
       background-color: transparent;
       color: black;
