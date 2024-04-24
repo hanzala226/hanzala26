@@ -38,7 +38,7 @@ nav ul li a:hover{
   transition: .4s;}
 .Main{
     width: 100%;
-    height: 160vh;
+    height: 100%;
     background-color: rgb(70, 70, 70);}
 .parent{
    
@@ -174,4 +174,3 @@ transition: .2s;}
     height: 20px;
     width: 100%;
   }
-  
